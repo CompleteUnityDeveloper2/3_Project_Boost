@@ -38,3 +38,9 @@ Here are the lectures of the course for this section...
 1. What a `.gitignore` file is.
 2. Unity's `Library` folder is a cache.
 3. How to easily add a Unity `.gitignore`.
+
+### 6 The Origin Of Our World ###
+1. Which axis is right, forward and up in Unity.
+2. Everything should be prefabbed.
+3. How to create a material.
+4. Setting our world origin.
