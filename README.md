@@ -44,3 +44,8 @@ Here are the lectures of the course for this section...
 2. Everything should be prefabbed.
 3. How to create a material.
 4. Setting our world origin.
+
+### 7 Placeholder Art From Primitives ###
+1. Guidelines for setting up compound game objects.
+2. Using primitive shapes to create placeholder art.
+3. Creating our first rocket ship!
