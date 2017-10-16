@@ -49,3 +49,13 @@ Here are the lectures of the course for this section...
 1. Guidelines for setting up compound game objects.
 2. Using primitive shapes to create placeholder art.
 3. Creating our first rocket ship!
+
+### 8 Basic Input Binding ###
+1. How to read direct from keys.
+2. Testing key logic with the Console.
+3. Preparing to launch our ship.
+
+### 9 Physics and Rigidbodies ###
+1. How to access a rigid body in Unity 2017.
+2. Using `AddRelativeForce()`.
+3. Adjusting mass to get our ship hovering!
