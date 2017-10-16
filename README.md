@@ -71,3 +71,11 @@ Here are the lectures of the course for this section...
 2. An Audio Source component makes sounds.
 3. How to create and attach an Audio Clip.
 4. Making sounds when the rocket thrutsts.
+
+### 12 Resolving Movement Bugs ###
+1. A minor code refactor.
+2. Update our ship prefab.
+3. Create new gameplay platforms.
+4. Use Rigid Body Constraints.
+5. Using `rigidBody.freezeRotation = true`
+6. Adding some Drag to our ship.
