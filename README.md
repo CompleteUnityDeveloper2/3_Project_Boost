@@ -34,7 +34,7 @@ Here are the lectures of the course for this section...
 2. How version control helps with game development.
 3. Setting up Git and SourceTree with Unity.
 
-### 5 Add Unity .gitignore Easily ###
+### 5 Add Unity `.gitignore` Easily ###
 1. What a `.gitignore` file is.
 2. Unity's `Library` folder is a cache.
 3. How to easily add a Unity `.gitignore`.
@@ -79,3 +79,9 @@ Here are the lectures of the course for this section...
 4. Use Rigid Body Constraints.
 5. Using `rigidBody.freezeRotation = true`
 6. Adding some Drag to our ship.
+
+### 13 Using SerializeField vs public ###
+1. Multiply a vector by a float to change length.
+2. `SerializeField` vs `public` to expose to Inspector.
+3. Creating design "levers".
+4. Tweaking our rocket movement.
