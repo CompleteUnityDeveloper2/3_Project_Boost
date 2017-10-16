@@ -59,3 +59,9 @@ Here are the lectures of the course for this section...
 1. How to access a rigid body in Unity 2017.
 2. Using `AddRelativeForce()`.
 3. Adjusting mass to get our ship hovering!
+
+### 10 Using Time.deltaTime ###
+1. Using a "Play Mode Tint".
+2. How to make things frame-rate independent.
+3. Using 'Time.deltaTime' to predict frame time.
+4. Getting our ship rotating in space.
