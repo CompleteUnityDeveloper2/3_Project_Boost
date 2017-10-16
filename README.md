@@ -65,3 +65,9 @@ Here are the lectures of the course for this section...
 2. How to make things frame-rate independent.
 3. Using 'Time.deltaTime' to predict frame time.
 4. Getting our ship rotating in space.
+
+### 11 Adding A Touch Of Audio ###
+1. There's an Audio Listener on the Main Camera.
+2. An Audio Source component makes sounds.
+3. How to create and attach an Audio Clip.
+4. Making sounds when the rocket thrutsts.
