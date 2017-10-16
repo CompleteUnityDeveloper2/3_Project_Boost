@@ -85,3 +85,8 @@ Here are the lectures of the course for this section...
 2. `SerializeField` vs `public` to expose to Inspector.
 3. Creating design "levers".
 4. Tweaking our rocket movement.
+
+### 14 Tagging Game Objects As Friendly ###
+1. The pros and cons of using tags in Unity.
+2. How to use `OnCollisionEnter()`.
+3. Differentiating between collisions.
