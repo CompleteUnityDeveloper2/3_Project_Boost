@@ -90,3 +90,8 @@ Here are the lectures of the course for this section...
 1. The pros and cons of using tags in Unity.
 2. How to use `OnCollisionEnter()`.
 3. Differentiating between collisions.
+
+### 15 Basic Level Design ###
+1. Tweak our camera to suit our design intention.
+2. Design a simple game moment to form the basis of our level.
+3. Add a backdrop.
