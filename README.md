@@ -99,3 +99,7 @@ Here are the lectures of the course for this section...
 ### 16 Design Levers And Tuning ###
 1. What design levers do we currently have at our disposal?
 2. Some examples of extreme tuning.
+
+### 17 Making A Second Level ###
+1. Improving the look of our current level.
+2. Creating a new scene to create a new level.
