@@ -60,6 +60,11 @@ Here are the lectures of the course for this section...
 2. Using `AddRelativeForce()`.
 3. Adjusting mass to get our ship hovering!
 
+### 9b Coordinate System Handedness ###
+1. Some things in 2D and 3D have handedness.
+2. This is important when making computer games (and drugs).
+3. How to use your hands to predict rotations.
+
 ### 10 Using Time.deltaTime ###
 1. Using a "Play Mode Tint".
 2. How to make things frame-rate independent.
