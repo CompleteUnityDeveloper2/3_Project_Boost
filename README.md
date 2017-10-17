@@ -95,3 +95,7 @@ Here are the lectures of the course for this section...
 1. Tweak our camera to suit our design intention.
 2. Design a simple game moment to form the basis of our level.
 3. Add a backdrop.
+
+### 16 Design Levers And Tuning ###
+1. What design levers do we currently have at our disposal?
+2. Some examples of extreme tuning.
