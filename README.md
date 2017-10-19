@@ -108,3 +108,8 @@ Here are the lectures of the course for this section...
 ### 17 Making A Second Level ###
 1. Improving the look of our current level.
 2. Creating a new scene to create a new level.
+
+### 18 Prefabs In Detail ###
+1. Understanding what happens when a new prefab is created.
+2. Exploring when an instance gets changed if a prefab is updated.
+3. Adding a landing pad prefab.
