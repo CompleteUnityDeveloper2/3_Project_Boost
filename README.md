@@ -113,3 +113,9 @@ Here are the lectures of the course for this section...
 1. Understanding what happens when a new prefab is created.
 2. Exploring when an instance gets changed if a prefab is updated.
 3. Adding a landing pad prefab.
+
+### 19 Level Loading & Scene Management ###
+1. How to add scenes to the build order.
+2. About the build index vs the scene name.
+3. Why we need `using UnityEngine.SceneManagement`.
+4. Using `SceneManager.LoadScene()`
