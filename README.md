@@ -119,3 +119,8 @@ Here are the lectures of the course for this section...
 2. About the build index vs the scene name.
 3. Why we need `using UnityEngine.SceneManagement`.
 4. Using `SceneManager.LoadScene()`
+
+### 20 Invoke() As A Coroutine Warm-up ###
+1. How to fix scene getting dark on level load.
+2. Creating an `enum` for our player state.
+3. Using Unity's `Invoke()` to delay load.
