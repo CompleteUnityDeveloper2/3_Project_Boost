@@ -124,3 +124,9 @@ Here are the lectures of the course for this section...
 1. How to fix scene getting dark on level load.
 2. Creating an `enum` for our player state.
 3. Using Unity's `Invoke()` to delay load.
+
+### 21 Playing Multiple Audio Clips ###
+1. You don't need a default audio clip on a source.
+2. Use `[SerializeField] AudioClip clipName` to expose a clip.
+3. Use `audioSource.PlayOneShot(clipName)` to play.
+4. How to handle multiple audio clips.
