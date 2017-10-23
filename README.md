@@ -130,3 +130,8 @@ Here are the lectures of the course for this section...
 2. Use `[SerializeField] AudioClip clipName` to expose a clip.
 3. Use `audioSource.PlayOneShot(clipName)` to play.
 4. How to handle multiple audio clips.
+
+### 22 Introducing Particle Effects ###
+1. What a particle effect is.
+2. How we designate which effect to play.
+3. Using `ParticleSystem.Play()` to trigger effect.
