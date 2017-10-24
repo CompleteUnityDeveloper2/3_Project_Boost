@@ -151,3 +151,9 @@ Here are the lectures of the course for this section...
 1. Use `Mathf.Epsilon` for floats.
 2. Tidy code.
 3. Remember our Discord chat server.
+
+### 26 Organise Your Assets ###
+1. Create new folders within our Assets directory.
+2. Create new layout to help visualise all our assets.
+3. Manage our hierarchy by using empty Game Objects.
+4. Discover and address prefab linking issues. 
