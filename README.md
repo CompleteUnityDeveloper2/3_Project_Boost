@@ -146,3 +146,8 @@ Here are the lectures of the course for this section...
 2. Using `Mathf.Sin()` for oscillation.
 3. Getting your offsets right.
 4. Making thrust frame-rate independent.
+
+### 25 Protecting Against NaN ###
+1. Use `Mathf.Epsilon` for floats.
+2. Tidy code.
+3. Remember our Discord chat server.
