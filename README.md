@@ -135,3 +135,8 @@ Here are the lectures of the course for this section...
 1. What a particle effect is.
 2. How we designate which effect to play.
 3. Using `ParticleSystem.Play()` to trigger effect.
+
+### 23 Moving Platform Pattern ###
+1. Using `[DisallowMultipleComponent]` attribute.
+2. Using `[Range(0,1)]` attribute.
+3. A pattern for moving platforms.
