@@ -140,3 +140,9 @@ Here are the lectures of the course for this section...
 1. Using `[DisallowMultipleComponent]` attribute.
 2. Using `[Range(0,1)]` attribute.
 3. A pattern for moving platforms.
+
+### 24 Mathf.Sin() For Movement Cycles ###
+1. How to initialise a `Vector3`.
+2. Using `Mathf.Sin()` for oscillation.
+3. Getting your offsets right.
+4. Making thrust frame-rate independent.
