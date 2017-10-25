@@ -157,3 +157,8 @@ Here are the lectures of the course for this section...
 2. Create new layout to help visualise all our assets.
 3. Manage our hierarchy by using empty Game Objects.
 4. Discover and address prefab linking issues. 
+
+### 27 Light Your Scene ###
+1. Understand all of the lights currently impacting your scene.
+2. Add point light and spotlight to your scene.
+3. Add light to your player object.
