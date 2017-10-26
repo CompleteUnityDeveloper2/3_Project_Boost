@@ -162,3 +162,8 @@ Here are the lectures of the course for this section...
 1. Understand all of the lights currently impacting your scene.
 2. Add point light and spotlight to your scene.
 3. Add light to your player object.
+
+### 28 Nested Prefab Joy ###
+1. Challenge - understand how nested prefabs work using our rocket ship.
+2. How Prefabs are copied as game objects when nested under a prefab.
+3. Solution is to instantiate which we will cover in the next section.
