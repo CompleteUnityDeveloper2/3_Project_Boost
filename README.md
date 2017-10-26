@@ -167,3 +167,9 @@ Here are the lectures of the course for this section...
 1. Challenge - understand how nested prefabs work using our rocket ship.
 2. How Prefabs are copied as game objects when nested under a prefab.
 3. Solution is to instantiate which we will cover in the next section.
+
+### 29 Make Game Moments ###
+1. Recap of all the design levers we now have at our disposal.
+2. Examples of a number of game moments and level layouts.
+3. Level flow options.
+4. Challenge to capture your game moment using screen capture software and share.
