@@ -179,3 +179,8 @@ Here are the lectures of the course for this section...
 2. Why they are useful.
 3. Setup debug keys to ignore collisions, and immediately load next level.
 4. Using `Debug.isDebugBuild` to keep debug keys out of final player build.
+
+### 31 Looping Through Levels ###
+1. Use `SceneManager.GetActiveScene().buildIndex` to get current Scene in Unity 2017
+2. `SceneManager.sceneCountInBuildSettings` to count scenes in build settings.
+3. Why we can't yet record total levels won.
