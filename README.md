@@ -156,7 +156,7 @@ Here are the lectures of the course for this section...
 1. Create new folders within our Assets directory.
 2. Create new layout to help visualise all our assets.
 3. Manage our hierarchy by using empty Game Objects.
-4. Discover and address prefab linking issues. 
+4. Discover and address prefab linking issues.
 
 ### 27 Light Your Scene ###
 1. Understand all of the lights currently impacting your scene.
@@ -173,3 +173,9 @@ Here are the lectures of the course for this section...
 2. Examples of a number of game moments and level layouts.
 3. Level flow options.
 4. Challenge to capture your game moment using screen capture software and share.
+
+### 30 Debug Keys & Builds ###
+1. What debug keys are.
+2. Why they are useful.
+3. Setup debug keys to ignore collisions, and immediately load next level.
+4. Using `Debug.isDebugBuild` to keep debug keys out of final player build.
