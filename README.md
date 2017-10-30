@@ -184,3 +184,8 @@ Here are the lectures of the course for this section...
 1. Use `SceneManager.GetActiveScene().buildIndex` to get current Scene in Unity 2017
 2. `SceneManager.sceneCountInBuildSettings` to count scenes in build settings.
 3. Why we can't yet record total levels won.
+
+### 32 Sharing With Teaser Video ###
+1. More details about build order.
+2. Sharing with a teaser video.
+3. Using OBS to record your teaser.
