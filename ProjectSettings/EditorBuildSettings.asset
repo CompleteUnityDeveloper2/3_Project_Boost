@@ -6,23 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Levels/up and over.unity
-    guid: e59e664599764e04e9f855ad1a9280f7
-  - enabled: 1
     path: Assets/Levels/easy gap.unity
     guid: f61bd238a182e5544a155110cb1d7723
   - enabled: 1
     path: Assets/Levels/chompers.unity
     guid: de9c081d1ae006247bb8224e42627eae
   - enabled: 1
-    path: Assets/Levels/Level 6.unity
+    path: Assets/Levels/U-turn.unity
+    guid: e59e664599764e04e9f855ad1a9280f7
+  - enabled: 1
+    path: Assets/Levels/under over.unity
+    guid: 917fda036807a314fae02ff00e865ab6
+  - enabled: 1
+    path: Assets/Levels/guantlet.unity
     guid: 932bee6a57584d546abacc34b7174f4d
   - enabled: 1
     path: Assets/Levels/thread needle.unity
     guid: c77719bf7c689e64f9cf3ee4fbb6ee9d
   - enabled: 1
-    path: Assets/Levels/Level 7.unity
+    path: Assets/Levels/Darkness.unity
     guid: 61ecbac4f2ff80946b82f0b2a46641b4
-  - enabled: 1
-    path: Assets/Levels/basic flight.unity
-    guid: 917fda036807a314fae02ff00e865ab6
