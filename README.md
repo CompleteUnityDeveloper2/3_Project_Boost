@@ -1,19 +1,25 @@
-# Complete Unity Developer 2.0 - Section 3 - Planet Boost.
 
-This is the long-awaited sequel to the Complete Unity Developer - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques,. You will benefit from the fact we have already taught over 250,000 students game development, many shipping commercial games as a result.
+## Background
+This is the [Complete Unity C# Developer 3D](http://gdev.tv/cu2github), the long-awaited sequel to the [Complete Unity C# Developer 2D](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques,. You will benefit from the fact we have already taught over 350,000 students game development, many shipping commercial games as a result.
 
-You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo.
+You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Unity C# Developer 3D](http://gdev.tv/cu2github)
 
-## By In This Section
-Basic Particle Effects. Local version control. Basic UI & Menu. C# classes, function return values. Unity Components, coordinate systems, origins and anchor points, advanced prefabs. Level design. (Ref: PB_CU2)
+## Project Pre-requisites
+In order to start this section you should have either finished [the previous section of this course](https://github.com/CompleteUnityDeveloper2/2_Terminal_Hacker), or be able to complete it's learning outcomes.
+
+# Project 3 - Project Boost
+This is a game inspired by the 1986 classic Thrust. The goal is to battle gravity and avoid obstacles to skillfully pilot your ship from a launch pad to a landing pad. A simple concept with a huge array of gameplay opportunities.
+
+## This Project's Learning Outcomes
+Basic Particle Effects. Local version control. Create C# scripts. Add Unity Components. Use coordinate systems, origins and anchor points. Create and maniplulate Unity prefabs. Do basic level design. (Ref: PB_CU2)
 
 ## How To Build / Compile
 This is a Unity project. If you're familiar with source control, then "clone this repo". Otherwise download the contents, and navigate to `Assets > Levels` then open any `.unity` file.
 
 This branch is the course branch, each commit corresponds to a lecture in the course. The current state is our latest progress.
 
-## Lecture List
-Here are the lectures of the course for this section...
+## Video List / Curriculum
+Here are the video lectures that comprise this section. They are typically about 5-15 minutes long, and each commit contains the exact changes made to the project by the instructor in that video.
 
 ### 1 Welcome To Section 3 ###
 1. This game is based on the old classic Thrust.
@@ -200,6 +206,12 @@ Here are the lectures of the course for this section...
 2. Why they are useful.
 3. Setup debug keys to ignore collisions, and immediately load next level.
 4. Using `Debug.isDebugBuild` to keep debug keys out of final player build.
+
+### 30b Instructor Hangout 3.3 ###
+1. When will we teach mobile inputs? (Ken)
+2. Important to be good at math? (Adam & Cam)
+3. One script versus many scripts?
+4. What to do next with the project?
 
 ### 31 Looping Through Levels ###
 1. Use `SceneManager.GetActiveScene().buildIndex` to get current Scene in Unity 2017
