@@ -193,3 +193,8 @@ Here are the lectures of the course for this section...
 ### 33 Spit & Polish ###
 Note there were some off-screen changes by Rick before this video.
 1. This is an open-ended video where we apply bugfixes and improvements.
+
+### 34 Section 3 Wrap-Up ###
+1. Great work in this section!
+2. We covered a lot of great C#, Unity and Game Design territory this section.
+3. Let's push on to the next section of the course.
