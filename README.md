@@ -134,6 +134,18 @@ Here are the lectures of the course for this section...
 2. Creating an `enum` for our player state.
 3. Using Unity's `Invoke()` to delay load.
 
+### 20b Instructor Hangout 3.2 ###
+1. Abrupt sound stopping issue (thanks Gregory).
+1. Care of differences in Debug mode (thanks Jeff).
+1. Side-effect in FreezeRotation + code reviews (Jeff).
+1. Well done Morgaine for 1st screen recording!
+1. Curtis & Robert re “too slick for neophytes”.
+1. Default values & [SerializeField] (Mitchell)
+1. Frame-rate & FixedUpdate (Straesso).
+1. Tip about solid background (Manuel).
+1. Loving the levels on forum (resources).
+1. Keep engaging even if it’s all clear!
+
 ### 21 Playing Multiple Audio Clips ###
 1. You don't need a default audio clip on a source.
 2. Use `[SerializeField] AudioClip clipName` to expose a clip.
