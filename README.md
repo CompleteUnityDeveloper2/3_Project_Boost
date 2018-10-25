@@ -189,3 +189,7 @@ Here are the lectures of the course for this section...
 1. More details about build order.
 2. Sharing with a teaser video.
 3. Using OBS to record your teaser.
+
+### 33 Spit & Polish ###
+Note there were some off-screen changes by Rick before this video.
+1. This is an open-ended video where we apply bugfixes and improvements.
