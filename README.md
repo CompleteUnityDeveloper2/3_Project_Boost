@@ -71,6 +71,15 @@ Here are the lectures of the course for this section...
 3. Using 'Time.deltaTime' to predict frame time.
 4. Getting our ship rotating in space.
 
+### 10b Instructor Hangout 3.1 ###
+1. Why Git rather than Unity Collab (Jason).
+2. Clarifying the handedness rule finger order.
+3. Struggling SourceTree on Mac? Forum (Frank).
+4. How to re-centre pivot point on rocket (Rory).
+5. Adding box collider to odd shaped rocket (Andy).
+6. Adding [Prefix] to Q&A question and comments.
+7. Mad How Disease, and that 1000y old text!
+
 ### 11 Adding A Touch Of Audio ###
 1. There's an Audio Listener on the Main Camera.
 2. An Audio Source component makes sounds.
